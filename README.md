@@ -10,11 +10,11 @@ This takes the raw data (not included since the files are quite large) and conve
 ### machine_learning_analysis_final.ipynb
 This performs the final machine learning analysis described in the paper on the updated data.
 
-### Data
+### feature_updates (feature updated data)
 This is not the raw data, but the data which is obtained after performing the cleaning and feature engineering from the data cleaning IPython notebook.
  
 ### capstone2_paper_udate.pdf
 This is the final paper which has all information about the procedure, plots, analysis, etc.
 
-### Drug_discovery_ppt.ppt 
+### Drug_discovery_pptx.pptx 
 This is the slide deck which has slides describing the procedure and giving some visuals.
